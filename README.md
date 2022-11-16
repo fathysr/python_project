@@ -4,5 +4,6 @@ patika.dev
 
 
 
+[Patika.dev][patika]
 
-[patika]: https://www.patika.dev/tr
+
